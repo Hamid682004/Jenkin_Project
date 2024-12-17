@@ -1,0 +1,42 @@
+1734439293145	geckodriver	INFO	Listening on 127.0.0.1:64145
+1734439296215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PMYLS\\AppData\\Local\\Temp\\rust_mozprofileOtqghi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1734439296887	Marionette	INFO	Marionette enabled
+1734439297047	Marionette	INFO	Listening on port 64157
+WebDriver BiDi listening on ws://127.0.0.1:64146
+Read port: 64157
+1734439297271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+1734439380499	Marionette	INFO	Stopped listening on port 64157
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+Dynamically enable window occlusion 1
+1734439383138	geckodriver	INFO	Listening on 127.0.0.1:64299
+1734439386194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PMYLS\\AppData\\Local\\Temp\\rust_mozprofilekoa2kd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1734439386816	Marionette	INFO	Marionette enabled
+1734439386979	Marionette	INFO	Listening on port 64315
+WebDriver BiDi listening on ws://127.0.0.1:64300
+Read port: 64315
+1734439387164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+1734439405544	Marionette	INFO	Stopped listening on port 64315
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+Dynamically enable window occlusion 1
+1734439408196	geckodriver	INFO	Listening on 127.0.0.1:64393
+1734439411213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PMYLS\\AppData\\Local\\Temp\\rust_mozprofileJND5cz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1734439411913	Marionette	INFO	Marionette enabled
+1734439412168	Marionette	INFO	Listening on port 64433
+WebDriver BiDi listening on ws://127.0.0.1:64394
+Read port: 64433
+1734439412469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+1734439466462	Marionette	INFO	Stopped listening on port 64433
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alnafi.com."
+Dynamically enable window occlusion 1

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3848","test_login[pytest@gmail.com-pytest2004]","","Tue Dec 17 17:44:22 PKT 2024","passed","Tue Dec 17 17:44:26 PKT 2024","","test_code1","",""
+"","3747","test_login[hamid@gmail.com-hamid2004]","","Tue Dec 17 17:42:56 PKT 2024","passed","Tue Dec 17 17:43:00 PKT 2024","","test_code1","",""
+"","3586","test_login[alnafi@gmail.com-alnafi2004]","","Tue Dec 17 17:43:21 PKT 2024","passed","Tue Dec 17 17:43:25 PKT 2024","","test_code1","",""
