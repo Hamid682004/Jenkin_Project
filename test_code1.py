@@ -24,7 +24,9 @@ def my_cred():
         ('ali@gmail.com','ali2004'),
         ('umar@gmail.com','umar2004'),
         ('usman@gmail.com','usman2004'),
-        ('hamid@gmail.com','hamid2004')
+        ('hamid@gmail.com','hamid2004'),
+        ('abubakr@gmail.com','abubakr2004'),
+        ('mehdi@gmail.com','mehdi2004')
     ]
 
 @pytest.mark.parametrize("username,password",my_cred())
