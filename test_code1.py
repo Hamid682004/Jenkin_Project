@@ -21,9 +21,10 @@ def teardown_function():
 
 def my_cred():
     return [
-        ('hamid@gmail.com','hamid2004'),
-        ('alnafi@gmail.com','alnafi2004'),
-        ('pytest@gmail.com','pytest2004')
+        ('ali@gmail.com','ali2004'),
+        ('umar@gmail.com','umar2004'),
+        ('usman@gmail.com','usman2004'),
+        ('hamid@gmail.com','hamid2004')
     ]
 
 @pytest.mark.parametrize("username,password",my_cred())
